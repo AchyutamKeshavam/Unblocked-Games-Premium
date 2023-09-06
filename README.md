@@ -10,13 +10,20 @@
 
 [![Tank Trouble](https://img.shields.io/badge/Super%20Smash%20Flash%202-Click%20Here-blue?style=flat-square&logo=github)](https://rb.gy/ifa93)
 
-| Game Title             | Description                         | Price ($)   |
-| -----------------------|-------------------------------------|------------ |
-| Premium Game 1        | Premium gaming experience           | 50.00      |
-| Premium Game 2        | Exclusive features and content      | 35.00      |
-| Premium Game 3        | Unparalleled gameplay                | 45.00      |
-| Premium Game 4        | Access to hidden levels             | 60.00      |
-| Premium Game 5        | VIP in-game items                   | 55.00      |
+
+
+| Game Name          | Description               | Link                        |
+|:-------------------|:--------------------------|:---------------------------|
+| **1. Happy Wheels**| 🌟 Exciting Adventure     | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **2. Boredbutton.com**| 🚀 Thrilling Space Quest  | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **3. SuperCook**   | 🌋 Epic Fantasy Journey   | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **4. The Oregon Trail**| 🕵️ Mysterious Challenge   | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **5. Slope 3**     | 🎮 Ultimate Gaming Fun     | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **6. Atari Breakout**| 🌟 Exciting Adventure     | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **7. Minesweeper**  | 🚀 Thrilling Space Quest  | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **8. Flappy Bird**  | 🌋 Epic Fantasy Journey   | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **9. Symmetry Artist**| 🕵️ Mysterious Challenge  | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
+| **10. POKEMON**    | 🎮 Ultimate Gaming Fun     | [https://rb.gy/ifa93](https://rb.gy/ifa93) |
 
 
 
