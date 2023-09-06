@@ -10,6 +10,15 @@
 
 [![Tank Trouble](https://img.shields.io/badge/Super%20Smash%20Flash%202-Click%20Here-blue?style=flat-square&logo=github)](https://rb.gy/ifa93)
 
+| Game Title             | Description                         | Price ($)   |
+| -----------------------|-------------------------------------|------------ |
+| Premium Game 1        | Premium gaming experience           | 50.00      |
+| Premium Game 2        | Exclusive features and content      | 35.00      |
+| Premium Game 3        | Unparalleled gameplay                | 45.00      |
+| Premium Game 4        | Access to hidden levels             | 60.00      |
+| Premium Game 5        | VIP in-game items                   | 55.00      |
+
+
 
 
 
